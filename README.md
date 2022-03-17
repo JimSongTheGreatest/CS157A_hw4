@@ -1,8 +1,3 @@
--- HW#4
--- Section 03
--- Student ID: 012232922
--- Song, Jimin
-
 # Self Services Banking System!
 
 I created two folders, each containing required codes to run separately.
