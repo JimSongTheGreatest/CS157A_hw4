@@ -1,3 +1,11 @@
+Crafted by Jimin
+Feel free to ask any questions through E-mail: jiminsong.software@gmail.com
+
+[Self Service Banking System]
+App-Demo: [On-Progress]
+
+=======
+
 # Self Services Banking System!
 
 I created two folders, each containing required codes to run separately.
