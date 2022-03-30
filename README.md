@@ -28,3 +28,7 @@ if you are running code with command
 javac P1.java
 java P1 db.properties
 '
+
+
+https://user-images.githubusercontent.com/20030613/160943509-0a808101-5777-4193-b45d-5fe32addd1ce.mov
+
