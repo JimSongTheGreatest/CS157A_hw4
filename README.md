@@ -32,3 +32,38 @@ java P1 db.properties
 
 https://user-images.githubusercontent.com/20030613/160943509-0a808101-5777-4193-b45d-5fe32addd1ce.mov
 
+### File Structure
+```html
+.
+├── Code_for_Console_Output
+│   ├── BankingSystem.class
+│   ├── BankingSystem.java
+│   ├── BatchInputProcessor.class
+│   ├── BatchInputProcessor.java
+│   ├── P1.class
+│   ├── P1.java
+│   ├── ProgramLauncher.class
+│   ├── ProgramLauncher.java
+│   ├── README.md
+│   ├── db.properties
+│   └── db2jcc4.jar
+├── Code_for_GUI
+│   ├── Admin.class
+│   ├── Admin.java
+│   ├── BankingSystem.class
+│   ├── BankingSystem.java
+│   ├── CustomerGUI.class
+│   ├── CustomerGUI.java
+│   ├── MainPage.class
+│   ├── MainPage.java
+│   ├── P2.class
+│   ├── P2.java
+│   ├── README.md
+│   ├── db.properties
+│   └── db2jcc4.jar
+├── README.md
+├── SelfBanking.mov
+└── empty.txt
+
+2 directories, 27 files
+```
